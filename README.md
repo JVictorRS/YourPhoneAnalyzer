@@ -1,8 +1,11 @@
+# DEPRECATED
+
+**YPA is now being updated in this repository: [https://github.com/labcif/ypa](https://github.com/labcif/ypa)**
+
 # YourPhoneAnalyzer
 
 *   [Installation](#windows-installation)
 *   [Authors + Contacts](#authors)
-*   [Project Description](#project-description-pt)
 *   [Licenses](#licenses)
 
 Autopsy plugin made to extract information from the 'Your Phone' Windows 10 App
